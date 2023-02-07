@@ -568,7 +568,7 @@ los cambios son para que se vea en el dispotivo pc de escritorio*/
   h1{
     
     color: lightblue;
-    font-size: -webkit-xxx-large;
+    font-size: xx-large;
     display: list-item;
     font-family: math;
     background: darkblue;
@@ -664,7 +664,7 @@ a {
   padding: 1px 1px;
   text-decoration: none;
   color: white;
-  padding: 1px 1px auto;
+  padding: 1px;
   box-shadow: 5px 5px blueviolet;
   background-color: black;
   border: 1px solid blue;
